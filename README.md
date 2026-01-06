@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hi, I'm John Otike
 
-<!--
-**xRederx/xRederx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Aspiring Cloud Security Architect
 
-Here are some ideas to get you started:
+Welcome to my portfolio! I'm passionate about cloud security and actively building hands-on experience through practical labs and projects.  This repository showcases my journey toward becoming a Cloud Security Architect.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 About Me
+
+- 🔭 Currently working on: Cloud security labs and professional certifications
+- 🌱 Learning: Azure Security, AWS Security, Cloud Infrastructure Protection, SecDevOps
+- 💼 Career Goal: Cloud Security Architect
+- 🎓 Education: 
+  - Bachelor's in Cybersecurity (May 2025)
+  - Master's in Cybersecurity (In Progress - Expected May 2026)
+- 📫 Reach me:  johnscwork@gmail.com | [LinkedIn](https://www.linkedin.com/in/johno123)
+
+---
+
+## 🎓 Certifications
+
+- ✅ CompTIA Security+
+- ✅ Microsoft Azure Fundamentals (AZ-900)
+- 🎯 In Progress: AWS Certified Security - Specialty
+- 🎯 In Progress: Azure Security Engineer Associate (AZ-500)
+
+---
+
+## 💻 Technical Skills
+
+**Cloud Platforms:** Microsoft Azure | AWS  
+**Security Tools:** Trivy, Docker, Azure Security Center  
+**Languages:** Python, Bash, Linux  
+**IaC & Automation:** Terraform, Azure CLI  
+**Containers:** Docker  
+
+---
+
+## 🔬 Lab Portfolio
+
+Explore my hands-on cloud security labs organized by category:
+
+### ☁️ [AWS Security Labs](./labs/aws-security/README.md)
+Hands-on labs focusing on AWS security services, IAM, encryption, and best practices.
+
+### 🔷 [Azure Security Labs](./labs/azure-security/README.md)
+Practical exercises covering Azure security features, identity management, and compliance.
+
+### 🛠️ [Security Tools & Automation](./labs/security-tools/README.md)
+Labs featuring security tools, scripts, and automation for cloud environments.
+
+### 🔐 [Identity & Access Management](./labs/iam/README.md)
+Deep dives into IAM policies, RBAC, and zero-trust architecture implementations.
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=xRederx&show_icons=true&theme=dark)
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with fellow security professionals and learning from the community! 
+
+- 💼 LinkedIn: [linkedin.com/in/johno123](https://www.linkedin.com/in/johno123)
+- 📧 Email: johnscwork@gmail.com
+
+---
+
+*💡 This portfolio is continuously updated as I complete new labs and expand my cloud security expertise.*
