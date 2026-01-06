@@ -45,7 +45,7 @@ This section showcases my work with security tools, custom scripts, and automati
 
 ## 🎯 Featured Projects
 
-### Project 1: Automated Container Security Pipeline
+### Automated Container Security Pipeline
 **Description**: Complete CI/CD pipeline with integrated security scanning  
 **Tools**:  Trivy, Docker, GitHub Actions, Checkov  
 **Completion Status**: 📋 Planned
@@ -61,7 +61,7 @@ This section showcases my work with security tools, custom scripts, and automati
 
 ---
 
-### Project 2: Multi-Cloud Security Auditing Framework
+### Multi-Cloud Security Auditing Framework
 **Description**: Unified security assessment across AWS and Azure  
 **Tools**: Prowler, ScoutSuite, Python, Terraform  
 **Completion Status**: 📋 Planned
@@ -77,7 +77,7 @@ This section showcases my work with security tools, custom scripts, and automati
 
 ---
 
-### Project 3: Security Incident Response Automation
+### Security Incident Response Automation
 **Description**:  Automated security incident detection and response  
 **Tools**: Python, AWS Lambda, Azure Functions, CloudWatch, Sentinel  
 **Completion Status**: 📋 Planned
@@ -93,7 +93,7 @@ This section showcases my work with security tools, custom scripts, and automati
 
 ---
 
-### Project 4: Infrastructure Security Baseline
+### Infrastructure Security Baseline
 **Description**: Terraform modules for secure cloud infrastructure  
 **Tools**: Terraform, TFSec, Checkov, GitHub Actions  
 **Completion Status**: 📋 Planned
