@@ -59,6 +59,7 @@ Welcome to my AWS Security Labs portfolio! This collection showcases hands-on pr
 **Objective**: Build automated security incident response using Lambda and Step Functions  
 **Skills**: Lambda, Step Functions, SNS, EventBridge  
 **Completion Status**: 📋 Planned
+
 ---
 
 ## 🛠️ Technologies Used
