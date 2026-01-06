@@ -1,18 +1,18 @@
-# Cloud Security Labs
+# Cloud Security Labs Portfolio
 
-Welcome to my cloud security labs portfolio! This page contains all my hands-on lab work as I develop my skills in cloud security.
+Welcome to my cloud security portfolio! This page showcases all my hands-on lab work as I build my expertise in cloud security.
 
-## 📋 Labs Overview
+## 📋 Portfolio Overview
 
-Below you'll find a collection of labs covering various aspects of cloud security, including vulnerability assessment, security configurations, penetration testing, and more.
+Below you'll find my portfolio of labs covering various aspects of cloud security, including vulnerability assessment, security configurations, penetration testing, and more. Each lab demonstrates practical skills and security knowledge.
 
 ---
 
-## 🔬 Available Labs
+## 🔬 Portfolio Projects
 
-*Labs will be added here as I complete them.*
+*Portfolio projects will be added here as I complete them.*
 
-Each lab includes:
+Each portfolio project includes:
 - **Detailed documentation** explaining the security concepts and methodology
 - **Step-by-step walkthrough** of the testing process
 - **Downloadable files** including scripts, configurations, and reports

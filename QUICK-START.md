@@ -1,8 +1,8 @@
 # Quick Start Guide
 
-## Your Lab Showcase is Ready! 🎉
+## Your Cloud Security Portfolio is Ready! 🎉
 
-You now have a clean template structure to showcase your cloud security labs.
+You now have a professional template structure to showcase your cloud security labs portfolio.
 
 ## Structure Overview
 
@@ -10,13 +10,13 @@ You now have a clean template structure to showcase your cloud security labs.
 your-repo/
 ├── README.md                 # Your profile page (shows on GitHub profile)
 ├── labs/
-│   ├── README.md            # Labs index (list all your labs here)
+│   ├── README.md            # Portfolio index (showcase all your labs)
 │   ├── LAB-TEMPLATE.md      # Template to copy for each new lab
 │   └── files/               # Store downloadable lab files here
 │       └── README.md
 ```
 
-## How to Add Your Lab
+## How to Add Your Lab to Your Portfolio
 
 ### Step 1: Create Lab Directory
 ```bash
@@ -50,8 +50,8 @@ zip -r labs/files/your-lab-name.zip your-lab-materials/
 cp your-lab-file.pdf labs/files/
 ```
 
-### Step 5: Update Labs Index
-Edit `labs/README.md` and add your lab to the "Available Labs" section:
+### Step 5: Update Portfolio Index
+Edit `labs/README.md` and add your lab to the "Portfolio Projects" section:
 
 ```markdown
 ### Your Lab Title
@@ -71,12 +71,12 @@ Edit `labs/README.md` and add your lab to the "Available Labs" section:
 ```
 
 ### Step 6: (Optional) Add to Main README
-If you want this lab featured on your profile, edit the main `README.md` and add it under "Quick Links to Recent Labs"
+If you want this lab featured on your profile, edit the main `README.md` and add it under "Featured Portfolio Projects"
 
 ### Step 7: Commit and Push
 ```bash
 git add .
-git commit -m "Add [your lab name] lab"
+git commit -m "Add [your lab name] to portfolio"
 git push
 ```
 
@@ -93,14 +93,14 @@ git push
 - **Metadata** - Date, duration, difficulty, platform, category
 - **Navigation** - Links back to labs index and profile
 
-## Tips
+## Tips for Building Your Portfolio
 
-1. **Be detailed** - Future you will thank you
-2. **Include screenshots** - Show your work visually
-3. **Document findings** - What vulnerabilities did you find?
-4. **Show remediation** - How did you fix issues?
+1. **Be detailed** - Demonstrate your expertise with thorough documentation
+2. **Include screenshots** - Show your work visually to potential employers
+3. **Document findings** - Highlight vulnerabilities you discovered
+4. **Show remediation** - Demonstrate problem-solving skills
 5. **Add metadata** - Helps organize your growing portfolio
 
 ---
 
-Ready to add your first lab? Start with Step 1 above! 🚀
+Ready to build your portfolio? Start with Step 1 above! 🚀
