@@ -9,8 +9,9 @@ Welcome to my portfolio! I'm passionate about cloud security and actively buildi
 ## 🎯 About Me
 
 - 🔭 Currently working on: Cloud security labs and professional certifications
-- 🌱 Learning: Azure Security, AWS Security, Cloud Infrastructure Protection, SecDevOps
-- 💼 Career Goal: Cloud Security Architect
+- 🌱 Learning: Azure Security, AWS Security, Cloud Infrastructure Protection, SecDevOps, GCP
+- 💼 Career Goal: Multi-Cloud Security Architect
+- 👨‍💼 Age: 19
 - 🎓 Education: 
   - Bachelor's in Cybersecurity (May 2025) [4.0 GPA]
   - Master's in Cybersecurity (In Progress - Expected May 2026) [currently 4.0 GPA]
