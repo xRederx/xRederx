@@ -64,131 +64,133 @@ Deep dive into IAM policies, Role-Based Access Control (RBAC), and zero-trust ar
 
 ---
 
-## 🎯 Featured Labs
+## 🎯 Featured Projects
 
-### Lab 1: Implementing Least Privilege IAM in AWS
-**Objective**: Design and implement minimal permission policies  
-**Duration**: 4 hours  
-**Difficulty**:  Intermediate
+### Automated Container Security Pipeline
+**Description**: Complete CI/CD pipeline with integrated security scanning  
+**Tools**:  Trivy, Docker, GitHub Actions, Checkov  
+**Completion Status**: 📋 Planned
 
-**What You'll Learn**:
-- IAM policy syntax and structure
-- Permission boundary implementation
-- Access Analyzer integration
-- Policy testing and validation
+**Features**:
+- Dockerfile vulnerability scanning
+- IaC security validation
+- Automated security gate enforcement
+- Security report generation
+- Slack notifications for critical findings
 
-**Technologies**:  AWS IAM, Access Analyzer, CloudTrail, Python (Boto3)
-
-**Key Achievements**:
-- ✅ Created 15+ role-based policies
-- ✅ Implemented permission boundaries
-- ✅ Automated policy testing
-- ✅ Documented policy templates
+**Repository**: [Link to project]
 
 ---
 
-### Lab 2: Azure Conditional Access with Risk-Based Policies
-**Objective**: Configure adaptive access controls based on risk signals  
-**Duration**: 3 hours  
-**Difficulty**:  Advanced
+### Multi-Cloud Security Auditing Framework
+**Description**: Unified security assessment across AWS and Azure  
+**Tools**: Prowler, ScoutSuite, Python, Terraform  
+**Completion Status**: 📋 Planned
 
-**What You'll Learn**: 
-- Conditional Access policy design
-- Risk detection configuration
-- MFA enforcement strategies
-- Sign-in logs analysis
+**Features**:
+- Automated security assessments
+- Compliance framework mapping (CIS, NIST)
+- HTML and JSON report generation
+- Trend analysis and historical tracking
+- Remediation recommendations
 
-**Technologies**: Azure Entra ID, Conditional Access, Identity Protection, KQL
-
-**Key Achievements**: 
-- ✅ Configured 10+ conditional access policies
-- ✅ Implemented risk-based MFA
-- ✅ Created location-based restrictions
-- ✅ Set up device compliance requirements
+**Repository**:  [Link to project]
 
 ---
 
-### Lab 3: Cross-Account Access Strategy in AWS
-**Objective**: Secure multi-account resource sharing  
-**Duration**: 5 hours  
-**Difficulty**:  Advanced
+### Security Incident Response Automation
+**Description**:  Automated security incident detection and response  
+**Tools**: Python, AWS Lambda, Azure Functions, CloudWatch, Sentinel  
+**Completion Status**:  📋 Planned
 
-**What You'll Learn**:
-- Trust policy configuration
-- External ID implementation
-- Cross-account role assumption
-- AWS Organizations integration
+**Features**:
+- Real-time threat detection
+- Automated containment actions
+- Incident ticket creation
+- Evidence collection and preservation
+- Notification and escalation workflows
 
-**Technologies**: AWS IAM, Organizations, STS, CloudFormation
-
-**Key Achievements**:
-- ✅ Designed hub-and-spoke account architecture
-- ✅ Implemented secure cross-account access
-- ✅ Automated role provisioning with IaC
-- ✅ Created audit logging for cross-account access
+**Repository**: [Link to project]
 
 ---
 
-### Lab 4: Privileged Identity Management (PIM) in Azure
-**Objective**: Implement just-in-time privileged access  
-**Duration**: 4 hours  
-**Difficulty**: Intermediate
+### Infrastructure Security Baseline
+**Description**: Terraform modules for secure cloud infrastructure  
+**Tools**: Terraform, TFSec, Checkov, GitHub Actions  
+**Completion Status**: 📋 Planned
 
-**What You'll Learn**:
-- PIM role activation workflows
-- Approval processes configuration
-- Access reviews setup
-- Audit logging and reporting
+**Features**:
+- Pre-hardened infrastructure templates
+- Security controls embedded by default
+- Compliance-ready configurations
+- Automated security scanning
+- Documentation generation
 
-**Technologies**: Azure Entra ID PIM, Azure Monitor, Logic Apps
-
-**Key Achievements**:
-- ✅ Configured JIT admin access
-- ✅ Implemented approval workflows
-- ✅ Set up quarterly access reviews
-- ✅ Created PIM alert automation
+**Repository**: [Link to project]
 
 ---
 
-### Lab 5: Zero Trust Identity Architecture
-**Objective**: Design and implement comprehensive zero-trust identity model  
-**Duration**: 8 hours  
-**Difficulty**:  Expert
+### Kubernetes Security Automation Suite
+**Description**:  Comprehensive Kubernetes security implementation  
+**Tools**: Kubernetes, Falco, OPA Gatekeeper, Kyverno, Cilium  
+**Completion Status**:  📋 Planned
 
-**What You'll Learn**: 
-- Zero-trust principles application
-- Multi-layered verification
-- Continuous authentication
-- Adaptive access policies
+**Features**:
+- Pod Security Standards implementation
+- Automated network policy generation
+- OPA policy enforcement configuration
+- Runtime threat detection with Falco
+- Security audit automation
 
-**Technologies**: AWS IAM, Azure Entra ID, SSO, MFA, Device Management
-
-**Key Achievements**: 
-- ✅ Designed complete zero-trust architecture
-- ✅ Implemented device compliance checks
-- ✅ Configured continuous access evaluation
-- ✅ Created documentation and runbooks
+**Repository**: [Link to project]
 
 ---
 
-### Lab 6: Federated Identity with SAML/OAuth
-**Objective**: Implement enterprise SSO with external identity providers  
-**Duration**: 6 hours  
-**Difficulty**: Advanced
+### Secrets Management & Rotation Framework
+**Description**:  Automated secrets lifecycle management  
+**Tools**: HashiCorp Vault, AWS Secrets Manager, Azure Key Vault, git-secrets  
+**Completion Status**: 📋 Planned
 
-**What You'll Learn**:
-- SAML configuration
-- OAuth 2.0 flows
-- Token validation
-- Identity provider integration
+**Features**:
+- Automated credential rotation
+- Vault integration with applications
+- Git pre-commit hooks for secrets prevention
+- Secrets usage auditing
+- Zero-trust secrets access implementation
 
-**Technologies**: Azure Entra ID, Okta, AWS IAM Identity Center, OAuth, SAML
+**Repository**: [Link to project]
 
-**Key Achievements**:
-- ✅ Configured SAML federation
-- ✅ Implemented OAuth 2.0 flows
-- ✅ Integrated multiple identity providers
-- ✅ Created automated provisioning
+---
+
+### Security Monitoring Dashboard
+**Description**: Comprehensive security visibility platform  
+**Tools**: Grafana, Prometheus, ELK Stack, CloudWatch, Azure Monitor  
+**Completion Status**:  📋 Planned
+
+**Features**:
+- Multi-source security dashboards
+- Security KPI tracking and metrics
+- Intelligent alerting configuration
+- Executive security reports
+- Real-time threat visualization
+
+**Repository**: [Link to project]
+
+---
+
+### Automated Compliance Validation
+**Description**:  Continuous compliance checking across cloud environments  
+**Tools**: Python, AWS Config, Azure Policy, Terraform, Open Policy Agent  
+**Completion Status**: 📋 Planned
+
+**Features**:
+- Automated CIS benchmark checks
+- Continuous compliance monitoring
+- Audit-ready report generation
+- Automated remediation workflows
+- Multi-framework support (CIS, NIST, PCI-DSS)
+
+**Repository**: [Link to project]
 
 ---
 
