@@ -16,10 +16,7 @@ Explore my labs to see my journey into cloud security:
 
 ### Quick Links to Recent Labs
 
-#### 🔹 AWS S3 Bucket Security Assessment
-Investigated S3 bucket misconfigurations and demonstrated vulnerability identification and remediation. [View Details](./labs/aws-s3-security/README.md) | [Download Files](./labs/files/aws-s3-security-lab.zip)
-
-*More labs coming soon! I'm actively building out my portfolio with hands-on cloud security demonstrations.*
+*Labs will be added here as I complete them. Each lab will include detailed documentation and downloadable files.*
 
 <!--
 **xRederx/xRederx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
