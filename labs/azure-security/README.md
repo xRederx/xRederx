@@ -44,27 +44,27 @@ Welcome to my Azure Security Labs portfolio! This collection demonstrates practi
 
 ## 🎯 Featured Labs
 
-### Lab 1: Zero Trust Architecture with Conditional Access
+### Zero Trust Architecture with Conditional Access (WIP)
 **Objective**: Implement granular access controls based on risk signals  
 **Skills**:  Entra ID, Conditional Access, MFA  
-**Completion Status**: ✅ Completed
+**Completion Status**: 📋 Planned
 
-### Lab 2: Microsoft Defender for Cloud Implementation
+### Microsoft Defender for Cloud Implementation
 **Objective**: Enable and configure security recommendations across subscriptions  
 **Skills**: Defender for Cloud, Security Center, Policy  
-**Completion Status**: ✅ Completed
+**Completion Status**: 📋 Planned
 
-### Lab 3: Azure Key Vault with Customer-Managed Keys
+### Azure Key Vault with Customer-Managed Keys
 **Objective**:  Implement end-to-end encryption with BYOK  
 **Skills**: Key Vault, Storage, Managed Identities  
-**Completion Status**: ✅ Completed
+**Completion Status**: 📋 Planned
 
 ### Lab 4: Sentinel SIEM Deployment
 **Objective**: Set up threat detection and automated response  
 **Skills**: Sentinel, Log Analytics, Logic Apps, KQL  
-**Completion Status**:  🚧 In Progress
+**Completion Status**: 📋 Planned
 
-### Lab 5: Secure AKS Cluster Deployment
+### Secure AKS Cluster Deployment
 **Objective**: Deploy Kubernetes cluster with security best practices  
 **Skills**: AKS, Azure Policy, Defender for Containers  
 **Completion Status**: 📋 Planned
