@@ -41,24 +41,70 @@ Welcome to my AWS Security Labs portfolio! This collection showcases hands-on pr
 ## 🎯 Featured Labs
 
 ### Implementing Least Privilege IAM Policies
-**Objective**: Create role-based access control with minimal permissions  
-**Skills**: IAM, Policy Simulation, Access Analyzer  
+**Description**: Create role-based access control with minimal permissions using IAM best practices, policy simulation, and Access Analyzer to ensure secure and compliant access management  
+**Tools**:  IAM, Policy Simulator, Access Analyzer, AWS CLI  
 **Completion Status**: 📋 Planned
+
+**Features**:
+- Custom IAM policies with least-privilege principles
+- Policy simulation and testing workflows
+- Access Analyzer integration for permission validation
+- Role-based access control (RBAC) implementation
+- Permission boundary enforcement
+- Automated policy review and refinement
+
+**Repository**: [Link to project]
+
+---
 
 ### S3 Security Hardening
-**Objective**: Secure S3 buckets using encryption, policies, and access points  
-**Skills**: S3, KMS, Bucket Policies, Access Points  
-**Completion Status**: 📋 Planned
+**Description**: Comprehensive S3 bucket security implementation using encryption, policies, access points, and versioning to protect data at rest and in transit  
+**Tools**: S3, KMS, Bucket Policies, Access Points, CloudTrail  
+**Completion Status**:  📋 Planned
+
+**Features**:
+- Server-side encryption with KMS
+- Bucket policies and ACL configuration
+- S3 Access Points for simplified access management
+- Versioning and MFA delete protection
+- Public access blocking
+- CloudTrail logging for audit trails
+
+**Repository**: [Link to project]
+
+---
 
 ### Multi-Region Security Architecture
-**Objective**: Design and implement secure multi-region application deployment  
-**Skills**: VPC, Transit Gateway, Route 53, CloudFront  
+**Description**:  Design and implement secure, resilient multi-region application deployment with traffic management, network segmentation, and disaster recovery capabilities  
+**Tools**: VPC, Transit Gateway, Route 53, CloudFront, AWS Firewall Manager  
 **Completion Status**: 📋 Planned
 
+**Features**:
+- Multi-region VPC architecture with Transit Gateway
+- Cross-region replication and failover
+- Route 53 health checks and DNS failover
+- CloudFront distribution with WAF integration
+- Centralized firewall management
+- Network segmentation and isolation
+
+**Repository**: [Link to project]
+
+---
+
 ### Automated Incident Response
-**Objective**: Build automated security incident response using Lambda and Step Functions  
-**Skills**: Lambda, Step Functions, SNS, EventBridge  
-**Completion Status**: 📋 Planned
+**Description**: Build automated security incident response system using serverless technologies to detect, respond, and remediate security threats in real-time  
+**Tools**:  Lambda, Step Functions, SNS, EventBridge, GuardDuty, Security Hub  
+**Completion Status**:  📋 Planned
+
+**Features**:
+- Real-time threat detection with GuardDuty
+- Automated remediation workflows using Step Functions
+- Lambda functions for security response actions
+- EventBridge rules for event-driven automation
+- SNS notifications and escalation
+- Security Hub integration for centralized findings
+
+**Repository**: [Link to project]
 
 ---
 
