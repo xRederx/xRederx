@@ -12,8 +12,8 @@ Welcome to my portfolio! I'm passionate about cloud security and actively buildi
 - 🌱 Learning: Azure Security, AWS Security, Cloud Infrastructure Protection, SecDevOps
 - 💼 Career Goal: Cloud Security Architect
 - 🎓 Education: 
-  - Bachelor's in Cybersecurity (May 2025) [4.0]
-  - Master's in Cybersecurity (In Progress - Expected May 2026) [currently 4.0]
+  - Bachelor's in Cybersecurity (May 2025) [4.0 GPA]
+  - Master's in Cybersecurity (In Progress - Expected May 2026) [currently 4.0 GPA]
 - 📫 Reach me:  johnscwork@gmail.com | [LinkedIn](https://www.linkedin.com/in/johno123)
 
 ---
