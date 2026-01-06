@@ -74,7 +74,7 @@ The lab files include:
 - [Item 2 description]
 - [Item 3 description]
 
-**[Download Lab Files](../files/[lab-name].zip)**
+**[Download Lab Files](../files/your-lab-name.zip)**
 
 ## 🔗 References
 

@@ -7,7 +7,7 @@ You now have a clean template structure to showcase your cloud security labs.
 ## Structure Overview
 
 ```
-xRederx/
+your-repo/
 ├── README.md                 # Your profile page (shows on GitHub profile)
 ├── labs/
 │   ├── README.md            # Labs index (list all your labs here)
