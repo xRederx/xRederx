@@ -40,22 +40,22 @@ Welcome to my AWS Security Labs portfolio! This collection showcases hands-on pr
 
 ## 🎯 Featured Labs
 
-### Lab 1: Implementing Least Privilege IAM Policies
+### Implementing Least Privilege IAM Policies (WIP)
 **Objective**: Create role-based access control with minimal permissions  
 **Skills**: IAM, Policy Simulation, Access Analyzer  
 **Completion Status**: ✅ Completed
 
-### Lab 2: S3 Security Hardening
+### S3 Security Hardening (WIP)
 **Objective**: Secure S3 buckets using encryption, policies, and access points  
 **Skills**: S3, KMS, Bucket Policies, Access Points  
 **Completion Status**: ✅ Completed
 
-### Lab 3: Multi-Region Security Architecture
+### Multi-Region Security Architecture (WIP)
 **Objective**: Design and implement secure multi-region application deployment  
 **Skills**: VPC, Transit Gateway, Route 53, CloudFront  
 **Completion Status**:  🚧 In Progress
 
-### Lab 4: Automated Incident Response
+### Automated Incident Response (WIP)
 **Objective**: Build automated security incident response using Lambda and Step Functions  
 **Skills**: Lambda, Step Functions, SNS, EventBridge  
 **Completion Status**: 📋 Planned
