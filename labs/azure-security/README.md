@@ -42,34 +42,144 @@ Welcome to my Azure Security Labs portfolio! This collection demonstrates practi
 
 ---
 
-## 🎯 Featured Labs
+## 🎯 Featured Projects
 
-### Zero Trust Architecture with Conditional Access (WIP)
-**Objective**: Implement granular access controls based on risk signals  
-**Skills**:  Entra ID, Conditional Access, MFA  
-**Completion Status**: 📋 Planned
+### Zero Trust Architecture with Conditional Access
+**Description**: Implement granular access controls based on user identity, device health, location, and risk signals  
+**Tools**:  Entra ID, Conditional Access, MFA, Intune, Azure AD Identity Protection  
+**Completion Status**:  📋 Planned
 
-### Microsoft Defender for Cloud Implementation
-**Objective**: Enable and configure security recommendations across subscriptions  
-**Skills**: Defender for Cloud, Security Center, Policy  
-**Completion Status**: 📋 Planned
+**Features**:
+- Risk-based conditional access policies
+- Device compliance enforcement
+- MFA configuration and enforcement
+- Location-based access controls
+- Session controls and sign-in frequency
+- Continuous access evaluation (CAE)
 
-### Azure Key Vault with Customer-Managed Keys
-**Objective**:  Implement end-to-end encryption with BYOK  
-**Skills**: Key Vault, Storage, Managed Identities  
-**Completion Status**: 📋 Planned
-
-### Lab 4: Sentinel SIEM Deployment
-**Objective**: Set up threat detection and automated response  
-**Skills**: Sentinel, Log Analytics, Logic Apps, KQL  
-**Completion Status**: 📋 Planned
-
-### Secure AKS Cluster Deployment
-**Objective**: Deploy Kubernetes cluster with security best practices  
-**Skills**: AKS, Azure Policy, Defender for Containers  
-**Completion Status**: 📋 Planned
+**Repository**: [Link to project]
 
 ---
+
+### Microsoft Defender for Cloud Implementation
+**Description**: Enable comprehensive security posture management and threat protection across Azure subscriptions  
+**Tools**:  Defender for Cloud, Azure Policy, Security Center, Log Analytics  
+**Completion Status**:  📋 Planned
+
+**Features**:
+- Multi-subscription security coverage
+- Workload protection plans activation
+- Security recommendations implementation
+- Secure score optimization
+- Regulatory compliance dashboard
+- Automated remediation with Logic Apps
+
+**Repository**: [Link to project]
+
+---
+
+### Azure Key Vault with Customer-Managed Keys
+**Description**:  Implement end-to-end encryption with bring-your-own-key (BYOK) across Azure services  
+**Tools**: Azure Key Vault, Storage Accounts, Managed Identities, Azure Policy  
+**Completion Status**: 📋 Planned
+
+**Features**:
+- Key Vault deployment with RBAC
+- Customer-managed encryption keys
+- Managed identity authentication
+- Key rotation automation
+- Soft delete and purge protection
+- Integration with Storage and SQL Database
+
+**Repository**: [Link to project]
+
+---
+
+### Sentinel SIEM Deployment & Threat Hunting
+**Description**: Deploy cloud-native SIEM solution with automated threat detection and response  
+**Tools**: Microsoft Sentinel, Log Analytics, Logic Apps, KQL, Watchlists  
+**Completion Status**: 📋 Planned
+
+**Features**:
+- Multi-source data connector configuration
+- Custom analytics rules creation
+- KQL-based threat hunting queries
+- Automated incident response playbooks
+- Threat intelligence integration
+- Custom workbooks and dashboards
+
+**Repository**:  [Link to project]
+
+---
+
+### Secure AKS Cluster Deployment
+**Description**: Deploy production-ready Kubernetes cluster with defense-in-depth security controls  
+**Tools**: AKS, Azure Policy, Defender for Containers, Azure CNI, Calico  
+**Completion Status**:  📋 Planned
+
+**Features**:
+- Azure Policy for Kubernetes enforcement
+- Pod Security Standards implementation
+- Network policies with Calico
+- Azure AD workload identity
+- Container image scanning
+- Defender for Containers integration
+
+**Repository**:  [Link to project]
+
+---
+
+### Azure Network Security Architecture
+**Description**: Design and implement comprehensive network security controls with hub-spoke topology  
+**Tools**: Azure Firewall, NSGs, Application Gateway WAF, Private Endpoints, DDoS Protection  
+**Completion Status**: 📋 Planned
+
+**Features**:
+- Hub-spoke network architecture
+- Azure Firewall with threat intelligence
+- WAF policy configuration
+- Micro-segmentation with NSGs
+- Private endpoint implementation
+- DDoS protection standard deployment
+
+**Repository**: [Link to project]
+
+---
+
+### Automated Security Compliance Framework
+**Description**: Continuous compliance checking and enforcement across Azure environment  
+**Tools**:  Azure Policy, Blueprints, Terraform, PowerShell, DevOps Pipelines  
+**Completion Status**: 📋 Planned
+
+**Features**:
+- Custom Azure Policy definitions
+- Azure Blueprints for governance
+- Automated CIS benchmark checks
+- Compliance report generation
+- Policy remediation automation
+- Infrastructure as Code scanning
+
+**Repository**: [Link to project]
+
+---
+
+### Identity Governance & PIM Implementation
+**Description**: Implement just-in-time privileged access and access lifecycle management  
+**Tools**: Privileged Identity Management, Entra ID Governance, Access Reviews  
+**Completion Status**:  📋 Planned
+
+**Features**:
+- PIM role activation workflows
+- Time-bound privileged access
+- Access review automation
+- Entitlement management packages
+- Privileged access monitoring
+- Emergency access account protection
+
+**Repository**: [Link to project]
+
+---
+
 
 ## 🛠️ Technologies Used
 
