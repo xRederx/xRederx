@@ -164,70 +164,70 @@ This lab includes 20 screenshots documenting the complete workflow from initial 
 
 ### Phase 1: Container Security Scanning & Crypto-JS Remediation (01-10)
 
-**01-docker-build-final-success.png**  
+**[01-docker-build-final-success.png](01-docker-build-final-success.png)**  
 Final Docker build completing successfully
 
-**02-trivy-results-json-cve-2023-46233-details.png**  
+**[02-trivy-results-json-cve-2023-46233-details.png](02-trivy-results-json-cve-2023-46233-details.png)**  
 Detailed CVE-2023-46233 (crypto-js PBKDF2 weakness) vulnerability information in trivy-results.json
 
-**03-npm-install-crypto-js-latest.png**  
+**[03-npm-install-crypto-js-latest.png](03-npm-install-crypto-js-latest.png)**  
 Terminal output attempting to install crypto-js@latest to fix CVE-2023-46233
 
-**04-trivy-results-json-cve-2023-46233-final.png**  
+**[04-trivy-results-json-cve-2023-46233-final.png](04-trivy-results-json-cve-2023-46233-final.png)**  
 Trivy results showing CVE-2023-46233 still present after initial remediation attempts
 
-**05-dockerfile-final-crypto-js-commented.png**  
+**[05-dockerfile-final-crypto-js-commented.png](05-dockerfile-final-crypto-js-commented.png)**  
 Dockerfile showing crypto-js installation code (with VS Code lightbulb warning)
 
-**06-trivy-results-2-cve-2023-46233-persists.png**  
+**[06-trivy-results-2-cve-2023-46233-persists.png](06-trivy-results-2-cve-2023-46233-persists.png)**  
 trivy-results-2.json confirming CVE-2023-46233 persists in nested dependencies
 
-**07-dockerfile-npm-force-resolutions.png**  
+**[07-dockerfile-npm-force-resolutions.png](07-dockerfile-npm-force-resolutions.png)**  
 Dockerfile using npm-force-resolutions strategy to attempt dependency override
 
-**08-trivy-scan-cve-2023-46233-crypto-js.png**  
+**[08-trivy-scan-cve-2023-46233-crypto-js.png](08-trivy-scan-cve-2023-46233-crypto-js.png)**  
 trivy-results-3.json showing detailed CVE-2023-46233 analysis
 
-**09-dockerfile-crypto-js-fix-attempt.png**  
+**[09-dockerfile-crypto-js-fix-attempt.png](09-dockerfile-crypto-js-fix-attempt.png)**  
 Dockerfile with crypto-js@4.2.0 installation attempt highlighted
 
-**10-trivy-new-vulnerability-persists.png**  
+**[10-trivy-new-vulnerability-persists.png](10-trivy-new-vulnerability-persists.png)**  
 Discovering new vulnerability CVE-2019-10744 (lodash) alongside the persistent crypto-js issue
 
 ### Phase 2: Lodash Vulnerability Remediation (11-14)
 
-**11-dockerfile-lodash-fix-attempt.png**  
+**[11-dockerfile-lodash-fix-attempt.png](11-dockerfile-lodash-fix-attempt.png)**  
 Dockerfile with lodash@^4.17.12 package override added to fix CVE-2019-10744
 
-**12-trivy-results-5-json-lodash-fixed.png**  
+**[12-trivy-results-5-json-lodash-fixed.png](12-trivy-results-5-json-lodash-fixed.png)**  
 trivy-results-5.json showing results after lodash remediation attempt
 
-**13-dockerfile-crypto-js-build.png**  
+**[13-dockerfile-crypto-js-build.png](13-dockerfile-crypto-js-build.png)**  
 Dockerfile with both lodash and crypto-js overrides, running Docker build
 
-**14-trivy-results-search-vulnerability-gone.png**  
+**[14-trivy-results-search-vulnerability-gone.png](14-trivy-results-search-vulnerability-gone.png)**  
 Using Ctrl+F search to verify CVE-2019-10744 (lodash) vulnerability was successfully eliminated
 
 ### Phase 3: Azure Infrastructure Deployment Challenges (15-18)
 
-**15-terraform-plan-nsg-rules.png**  
+**[15-terraform-plan-nsg-rules.png](15-terraform-plan-nsg-rules.png)**  
 Running `terraform plan` showing planned NSG security rules (Allow-All-Outbound, Allow-HTTPS)
 
-**16-terraform-apply-errors.png**  
+**[16-terraform-apply-errors.png](16-terraform-apply-errors.png)**  
 Terraform apply errors - subscription region restrictions encountered
 
-**17-terraform-destroy-restart.png**  
+**[17-terraform-destroy-restart.png](17-terraform-destroy-restart.png)**  
 Running `terraform destroy` to clean up resources and restart deployment
 
-**18-az-account-check-region-restriction.png**  
+**[18-az-account-check-region-restriction.png](18-az-account-check-region-restriction.png)**  
 Checking available Azure regions with `az account list-locations` - identified school Azure account restrictions
 
 ### Phase 4: Successful Deployment (19-20)
 
-**19-terraform-apply-success-personal-account.png**  
+**[19-terraform-apply-success-personal-account.png](19-terraform-apply-success-personal-account.png)**  
 Terraform apply successful after switching to personal Azure account - "Apply complete! Resources: 8 added, 0 changed, 0 destroyed"
 
-**20-azure-portal-nsg-rules-proof.png**  
+**[20-azure-portal-nsg-rules-proof.png](20-azure-portal-nsg-rules-proof.png)**  
 Azure Portal showing nsg-allow-specific-port with successfully created Inbound Security Rules (Allow-HTTPS, Deny-All-Inbound) and Outbound Security Rules (Allow-All-Outbound) - PROOF OF SUCCESSFUL DEPLOYMENT
 
 ### Key Workflow Insights
