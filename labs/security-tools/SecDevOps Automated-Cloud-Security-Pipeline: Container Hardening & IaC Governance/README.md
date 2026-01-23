@@ -298,4 +298,3 @@ az group delete --name rg-secdevops-lab --yes --no-wait
 **Date Completed**: January 6, 2026  
 **Project Type**: Security DevOps Lab  
 **Purpose**: Portfolio demonstration for cloud security engineering positions
-
