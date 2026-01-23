@@ -45,6 +45,32 @@ This section showcases my work with security tools, custom scripts, and automati
 
 ## 🎯 Featured Projects
 
+SecDevOps Automated-Cloud-Security-Pipeline: Container Hardening & IaC Governance
+**Description**: End-to-end security practices for containerized applications with container hardening, IaC governance, and secure Azure deployment  
+**Tools**:  Trivy, Docker, Terraform, Azure CLI, npm  
+**Completion Status**: ✅ Completed (January 6, 2026)
+
+**Features**:
+- Container image vulnerability scanning with Trivy
+- Security vulnerability remediation (CVE-2019-10744 resolved)
+- Infrastructure as Code deployment with Terraform
+- Network security implementation with Azure NSG
+- Least-privilege firewall configuration (HTTPS-only inbound)
+- Defense-in-depth security approach
+
+**Key Achievements**:
+- Successfully remediated CVE-2019-10744 (Lodash Prototype Pollution) using npm package overrides
+- Documented CVE-2023-46233 (crypto-js) nested dependency limitations as accepted risk
+- Deployed secure Azure infrastructure (VNet, Subnet, NSG with custom security rules)
+- Implemented deny-all-except-necessary network security posture
+- Created comprehensive documentation with 20 screenshots
+
+**Technologies**: Docker, Trivy, Terraform, Azure (Resource Groups, Virtual Networks, NSGs), Node.js, Azure CLI
+
+**Repository**: [SecDevOps Ter-doc-triv lab](../../tree/main/SecDevOps%20Ter-doc-triv%20lab)
+
+---
+
 ### Automated Container Security Pipeline
 **Description**: Complete CI/CD pipeline with integrated security scanning  
 **Tools**:  Trivy, Docker, GitHub Actions, Checkov  
