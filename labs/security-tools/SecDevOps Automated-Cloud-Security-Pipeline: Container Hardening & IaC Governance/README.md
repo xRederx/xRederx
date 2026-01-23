@@ -119,7 +119,7 @@ RUN npm pkg set overrides.lodash=^4.17.12
 
 **Before:**
 - CVE-2023-46233 (CRITICAL) - crypto-js weakness in nested dependency
-- CVE-2019-10744 (HIGH) - Lodash Prototype Pollution
+- CVE-2019-10744 (CRITICAL) - Lodash Prototype Pollution
 - Multiple nested dependency vulnerabilities
 
 **After:**
@@ -298,3 +298,4 @@ az group delete --name rg-secdevops-lab --yes --no-wait
 **Date Completed**: January 6, 2026  
 **Project Type**: Security DevOps Lab  
 **Purpose**: Portfolio demonstration for cloud security engineering positions
+
