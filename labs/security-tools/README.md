@@ -67,7 +67,7 @@ SecDevOps Automated-Cloud-Security-Pipeline: Container Hardening & IaC Governanc
 
 **Technologies**: Docker, Trivy, Terraform, Azure (Resource Groups, Virtual Networks, NSGs), Node.js, Azure CLI
 
-**Repository**: [SecDevOps Ter-doc-triv lab](../../tree/main/SecDevOps%20Ter-doc-triv%20lab)
+**Repository**: [SecDevOps Ter-doc-triv lab](labs/security-tools/SecDevOps Automated-Cloud-Security-Pipeline: Container Hardening & IaC Governance/README.md)
 
 ---
 
