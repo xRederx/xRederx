@@ -44,7 +44,7 @@ Welcome to my Azure Security Labs portfolio! This collection demonstrates practi
 
 ## 🎯 Featured Projects
 
-SecDevOps Automated-Cloud-Security-Pipeline: Container Hardening & IaC Governance
+###SecDevOps Automated-Cloud-Security-Pipeline: Container Hardening & IaC Governance
 **Description**: End-to-end security practices for containerized applications with container hardening, IaC governance, and secure Azure deployment  
 **Tools**:  Trivy, Docker, Terraform, Azure CLI, npm  
 **Completion Status**: ✅ Completed (January 6, 2026)
