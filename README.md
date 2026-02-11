@@ -54,6 +54,9 @@ Labs featuring security tools, scripts, and automation for cloud environments.
 ### 🔐 [Identity & Access Management](./labs/iam/README.md)
 Deep dives into IAM policies, RBAC, and zero-trust architecture implementations.
 
+### 🚀 [DevSecOps & CI/CD](./labs/dso-cicd/README.md)
+Deep dives into IAM policies, RBAC, and zero-trust architecture implementations.
+
 ---
 
 ## 📊 GitHub Stats
