@@ -6,29 +6,35 @@ Welcome to my DevSecOps & CI/CD Security Labs portfolio! This collection showcas
 
 ## 📚 Lab Categories
 
-### 🔁 CI/CD Architecture & Engineering
-- **Pipeline Design & Orchestration**: Building scalable and reliable CI/CD workflows
-- **Multi-Stage Deployment Strategies**: Dev, staging, and production release management
-- **Runner & Agent Configuration**: Secure and efficient build execution environments
-- **Release Automation**: Automated build, test, and deployment lifecycle management
+### 🔁 CI/CD Architecture & Release Engineering
+- **Pipeline Design & Optimization**: Building scalable, resilient CI/CD workflows
+- **Multi-Environment Deployment Strategies**: Dev, staging, and production orchestration
+- **Runner & Build Agent Management**: Secure and efficient execution environments
+- **Release Automation & Versioning**: Controlled build and deployment lifecycle management
 
 ### 🛡️ DevSecOps Integration
-- **Security in the SDLC**: Embedding security controls throughout development stages
-- **Security Toolchain Integration**: Incorporating scanning tools into CI/CD workflows
-- **Secure Code Review Practices**: Automated and manual review enforcement
-- **Compliance-Driven Development**: Aligning pipelines with security frameworks and standards
+- **Security Embedded in the SDLC**: Integrating controls throughout development stages
+- **Automated Security Testing**: SAST, DAST, and pipeline-integrated scanning
+- **Secure Code Review Enforcement**: Policy-driven pull request validation
+- **Compliance Alignment**: Mapping pipelines to industry security standards
 
 ### 📦 Supply Chain & Artifact Security
-- **Dependency Risk Management**: Monitoring third-party packages and libraries
-- **Artifact Signing & Verification**: Ensuring build integrity and authenticity
-- **SBOM Generation & Analysis**: Software Bill of Materials visibility
-- **Container & Image Security**: Secure image creation and registry governance
+- **Dependency Risk Management**: Monitoring third-party libraries and packages
+- **Artifact Integrity & Signing**: Ensuring authenticity of builds and releases
+- **SBOM Generation & Analysis**: Software component visibility and traceability
+- **Container & Registry Governance**: Secure image management practices
 
-### ☁️ Infrastructure & Platform Automation
-- **Infrastructure as Code Pipelines**: Automated infrastructure provisioning workflows
-- **Environment Consistency Management**: Standardized infrastructure across stages
-- **Cloud Platform Integration**: CI/CD integration with cloud-native services
-- **Scalable Automation Frameworks**: Designing extensible automation systems
+### 🏗️ Infrastructure & Platform Automation
+- **Infrastructure as Code Workflows**: Automated provisioning and lifecycle management
+- **Configuration Management**: Standardizing infrastructure across environments
+- **Cloud & Platform Integration**: Connecting CI/CD systems with cloud-native services
+- **Scalable Automation Frameworks**: Designing reusable infrastructure pipelines
+
+### 📊 Continuous Monitoring & Operational Resilience
+- **Pipeline Observability**: Logging, metrics, and workflow visibility
+- **Drift Detection & Change Monitoring**: Identifying unauthorized configuration changes
+- **Automated Remediation Workflows**: Event-driven corrective actions
+- **Resilience & Recovery Strategies**: Designing fault-tolerant deployment systems
 
 ---
 
