@@ -40,7 +40,7 @@ Welcome to my DevSecOps & CI/CD Security Labs portfolio! This collection showcas
 
 ## 🎯 Featured Labs
 
-### Project Totem: Self-Healing DevSecOps Security Pipeline  
+### Self-Healing DevSecOps Security Pipeline  
 **Description**: End-to-end DevSecOps security architecture that enforces shift-left IaC scanning, secure Terraform state management, continuous cloud monitoring, and automated self-healing remediation of insecure network configurations  
 **Tools**: pre-commit, Checkov, Trivy, Terraform, Azure Blob Storage, Python (azure-mgmt-network), GitHub Actions  
 **Completion Status**: 🚧 In Progress  
