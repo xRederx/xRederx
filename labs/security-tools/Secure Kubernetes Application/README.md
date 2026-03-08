@@ -1,4 +1,4 @@
-# SecDevOps Lab 2: Secure Kubernetes Application with Automated Incident Response
+# Secure Kubernetes Application with Automated Incident Response
 
 A hands-on Security DevOps project demonstrating automated Kubernetes threat detection, pod quarantine, traffic isolation via a service mesh, and real-time email alerting.
 
