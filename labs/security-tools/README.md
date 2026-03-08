@@ -71,6 +71,34 @@ SecDevOps Automated-Cloud-Security-Pipeline: Container Hardening & IaC Governanc
 
 ---
 
+### Secure Kubernetes Application with Automated Incident Response
+**Description**: Automated Kubernetes security pipeline with threat detection, pod quarantine, service mesh traffic isolation, and real-time alerting on a locally hosted multi-tier application  
+**Tools**: Minikube, Istio, Trivy, Python, kubectl, Gmail SMTP  
+**Completion Status**: ✅ Completed (March 7, 2026)
+
+**Features**:
+- Kubernetes cluster deployment with multi-tier Guestbook application (frontend + Redis)
+- Zero Trust network segmentation with Kubernetes NetworkPolicies
+- Istio service mesh with strict mutual TLS (mTLS) enforcement across all pods
+- Automated vulnerable pod detection using Trivy (HIGH/CRITICAL CVE scanning)
+- Pod quarantine labeling and deny-all traffic isolation via Istio AuthorizationPolicy
+- Scheduled automation pipeline running detection-to-isolation every 5 minutes
+- Real-time email alerting on quarantine events via Gmail SMTP
+- Secure secret management with python-dotenv and .gitignore
+
+**Key Achievements**:
+- Discovered Minikube's default CNI does not enforce NetworkPolicies — pivoted to Istio AuthorizationPolicy and confirmed effective traffic denial in browser
+- Built a full automated incident response pipeline (detect → label → isolate → alert) with zero manual intervention after initial trigger
+- Enforced strict mTLS across all pod-to-pod communication using Istio PeerAuthentication
+- Secured all credentials using environment variables excluded from version control
+- Resolved 7 distinct bugs across encoding issues, API conflicts, loop logic, and missing dependencies
+
+**Technologies**: Minikube, Kubernetes, Istio 1.25.1, Trivy, Python (kubernetes client, smtplib, python-dotenv), Docker, kubectl, istioctl
+
+**Repository**: [Secure Kubernetes Application lab](https://github.com/xRederx/xRederx/blob/main/labs/security-tools/SecDevOps%20Lab%202%3A%20Secure%20Kubernetes%20Application/README.md)
+
+---
+
 ### Automated Container Security Pipeline
 **Description**: Complete CI/CD pipeline with integrated security scanning  
 **Tools**:  Trivy, Docker, GitHub Actions, Checkov  
