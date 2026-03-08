@@ -95,7 +95,7 @@ SecDevOps Automated-Cloud-Security-Pipeline: Container Hardening & IaC Governanc
 
 **Technologies**: Minikube, Kubernetes, Istio 1.25.1, Trivy, Python (kubernetes client, smtplib, python-dotenv), Docker, kubectl, istioctl
 
-**Repository**: [Secure Kubernetes Application lab](https://github.com/xRederx/xRederx/blob/main/labs/security-tools/SecDevOps%20Lab%202%3A%20Secure%20Kubernetes%20Application/README.md)
+**Repository**: [Secure Kubernetes Application lab](https://github.com/xRederx/xRederx/tree/main/labs/security-tools/Secure%20Kubernetes%20Application)
 
 ---
 
