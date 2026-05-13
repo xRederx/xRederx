@@ -40,6 +40,25 @@ Welcome to my DevSecOps & CI/CD Security Labs portfolio! This collection showcas
 
 ## 🎯 Featured Labs
 
+### AI-Powered Chat API (.NET + OpenAI)
+**Description**: ASP.NET Core REST API built in C# that accepts user prompts and returns real-time AI-generated responses via OpenAI's gpt-4o-mini model. Demonstrates secure credential management, minimal API architecture, and AI integration in a .NET environment.
+
+**Tools**: .NET 9, C#, ASP.NET Core, OpenAI SDK, IConfiguration, PowerShell
+
+**Completion Status**: ✅ Complete
+
+**Features**:
+- Single-file minimal API with a clean `POST /chat` endpoint
+- Integrated OpenAI gpt-4o-mini for real-time prompt completion
+- Secure API key management via ASP.NET `IConfiguration` — never hardcoded
+- `appsettings.json` excluded from source control via `.gitignore`
+- `appsettings.example.json` committed for contributor onboarding
+- Full build log documenting Azure OpenAI quota issues, SDK migration, and troubleshooting steps
+
+**Repository**: [https://github.com/xRederx/xRederx/blob/main/labs/devsecops-cicd/ai-chat-api/README.md]
+
+---
+
 ### Self-Healing DevSecOps Security Pipeline  
 **Description**: End-to-end DevSecOps security architecture that enforces shift-left IaC scanning, secure Terraform state management, continuous cloud monitoring, and automated self-healing remediation of insecure network configurations  
 **Tools**: pre-commit, Checkov, Trivy, Terraform, Azure Blob Storage, Python (azure-mgmt-network), GitHub Actions  
