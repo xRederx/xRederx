@@ -473,4 +473,4 @@ platform.openai.com billing page confirms $5.00 credit balance added, "Pay as yo
 
 ---
 
-[← Back to Main Portfolio](../../README.md)
+[← Back to Main Portfolio](https://github.com/xRederx/xRederx/blob/main/labs/devsecops-cicd/README.md)
