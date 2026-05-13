@@ -72,7 +72,7 @@ Welcome to my DevSecOps & CI/CD Security Labs portfolio! This collection showcas
 - Scheduled GitHub Actions workflow (cron) for continuous NSG monitoring  
 - Automated detection and self-healing remediation of exposed SSH (port 22) rules  
 
-**Repository**: [Link to project]
+**(https://github.com/xRederx/xRederx/blob/main/labs/devsecops-cicd/ai-chat-api/README.md)**: [Link to project]
 
 ---
 
