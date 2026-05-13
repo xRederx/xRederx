@@ -464,7 +464,7 @@ Clean `dotnet run` output — application started, listening on `http://localhos
 ![28](AI%20API%20Lab/28.png)
 platform.openai.com billing page confirms $5.00 credit balance added, "Pay as you go" plan active. This unblocks the API calls.
 
-[← Back to Main Portfolio](../../README.md)
+
 ---
 
 **29 — HTTP 200 — it works**
@@ -473,3 +473,4 @@ platform.openai.com billing page confirms $5.00 credit balance added, "Pay as yo
 
 ---
 
+[← Back to Main Portfolio](../../README.md)
