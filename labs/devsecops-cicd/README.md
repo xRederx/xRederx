@@ -55,7 +55,7 @@ Welcome to my DevSecOps & CI/CD Security Labs portfolio! This collection showcas
 - `appsettings.example.json` committed for contributor onboarding
 - Full build log documenting Azure OpenAI quota issues, SDK migration, and troubleshooting steps
 
-**Repository**: [https://github.com/xRederx/xRederx/blob/main/labs/devsecops-cicd/ai-chat-api/README.md]
+**Repository**: [Link to project](https://github.com/xRederx/xRederx/blob/main/labs/devsecops-cicd/ai-chat-api/README.md)
 
 ---
 
@@ -72,7 +72,7 @@ Welcome to my DevSecOps & CI/CD Security Labs portfolio! This collection showcas
 - Scheduled GitHub Actions workflow (cron) for continuous NSG monitoring  
 - Automated detection and self-healing remediation of exposed SSH (port 22) rules  
 
-**(https://github.com/xRederx/xRederx/blob/main/labs/devsecops-cicd/ai-chat-api/README.md)**: [Link to project]
+**Repository**: [Link to project]
 
 ---
 
