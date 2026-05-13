@@ -11,10 +11,10 @@ Welcome to my portfolio! I'm passionate about cloud security and actively buildi
 - 🔭 Currently working on: Cloud security labs and professional certifications
 - 🌱 Learning: Azure Security, AWS Security, Cloud Infrastructure Protection, SecDevOps, GCP
 - 💼 Career Goal: Multi-Cloud Security Architect
-- 👨‍💼 Age: 19
+- 👨‍💼 Age: 20
 - 🎓 Education: 
   - Bachelor's in Cybersecurity (May 2025) [4.0 GPA]
-  - Master's in Cybersecurity (In Progress - Expected May 2026) [currently 4.0 GPA]
+  - Master's in Cybersecurity (May 2025) [4.0 GPA]
 - 📫 Reach me:  johnscwork@gmail.com | [LinkedIn](https://www.linkedin.com/in/johno123)
 
 ---
@@ -23,8 +23,8 @@ Welcome to my portfolio! I'm passionate about cloud security and actively buildi
 
 - ✅ CompTIA Security+
 - ✅ Microsoft Azure Fundamentals (AZ-900)
-- 🎯 In Progress: AWS Certified Security - Specialty
-- 🎯 In Progress: Azure Security Engineer Associate (AZ-500)
+- ✅ In Progress: AWS Certified Security - Specialty
+- ✅ In Progress: Azure Security Engineer Associate (AZ-500)
 
 ---
 
